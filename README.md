@@ -54,7 +54,7 @@ Insight: Tracks global video game sales trends over the years.
 
 
 
-💡 Key Insights
+ Key Insights
 
 Top Games: Certain games dominate global sales significantly.
 
@@ -64,6 +64,16 @@ Platform Insights: PS2 , XBOX 360 and  PS3 consistently generate high sales.
 
 Yearly sales: Yearly Sales has decreased over timee
 
+
+💡Recommendations-
+
+Investment in High-Selling Genres:
+
+Focus resources on developing Action, Sports, and Shooter games, as they have proven strong demand globally.
+
+Exploration of Moderate Genres:
+
+Assess the potential for growth in Role-Playing and Platform games, especially if market trends or target audience preferences align.
 
 
 
